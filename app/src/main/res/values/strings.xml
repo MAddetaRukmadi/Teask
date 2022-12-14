@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Teask</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Cari</string>
+    <string name="sort_by_high_priority">Urutkan berdasarkan prioritas</string>
+    <string name="delete_all">Hapus Semua</string>
+    <string name="enter_task">Deskripsi</string>
+    <string name="add">Tambah</string>
+    <string name="update">Simpan</string>
+    <string-array name="priorities">
+        <item>Penting Mendesak</item>
+        <item>Tidak Penting Mendesak</item>
+        <item>Penting Tidak Mendesak</item>
+        <item>Tidak Penting Tidak Mendesak</item>
+    </string-array>
+</resources>
